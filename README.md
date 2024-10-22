@@ -3,7 +3,7 @@
 SaveCanvas allows you to save in-game canvases by walking to them and pushing the equals (=) key!
 
 - Notifies in the top left when a canvas was saved
-- Saves to %appdata%\Roaming\Godot\app_userdata\webfishing_2_newver\drawings
+- Saves to %appdata%\Godot\app_userdata\webfishing_2_newver\drawings
 - Each file is named as a timestamp
 - Files are currently in PNG format with a transparent background
 
